@@ -6,3 +6,6 @@ Current Features Include:
 - Movable Map Window
 - Zoomable Map
 - Toolbar Icon
+
+Picture Example:
+<img width="598" height="406" alt="image" src="https://github.com/user-attachments/assets/4441ce2b-91ce-4a9d-b6a5-2a8a88512003" />
