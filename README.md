@@ -7,6 +7,10 @@ Current Features Include:
 - Zoomable Map
 - Toolbar Icon
 - Ability to Draw on Map
+- Player Icon With Direction
+- Orbit Lines When In Orbit
+- Text Feature
+- Mun Map
 
 Picture Example:
 
