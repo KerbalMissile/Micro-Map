@@ -6,6 +6,7 @@ Current Features Include:
 - Movable Map Window
 - Zoomable Map
 - Toolbar Icon
+- Ability to Draw on Map
 
 Picture Example:
 
