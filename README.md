@@ -1,6 +1,6 @@
 # Micro Map
 
-![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/kerbalmissile/Micro-Map/latest/total?style=plastic&label=Downloads%20(Latest)&color=%230088ff)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/KerbalMissile/Micro-Map/total?color=%230099ff)
 
 Micro Map will basically just add a small Mini Map to your game, currently only has Kerbin but hopefully will have more bodies in the future, and more features too!
 
